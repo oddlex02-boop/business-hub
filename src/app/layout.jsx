@@ -10,7 +10,6 @@ export const metadata = {
   keywords:
     'Oddlex Business Hub, business tools, freelancer tools, free invoicing app, online invoice generator, CRM platform, project management, client manager, payment tracker, business platform, freelancer CRM, free business suite, work management, invoice software, inventory tracker, business growth tools, 40+ free tools, all-in-one platform, small business tools, productivity suite',
 
-  // 🔥 Google Search Console Verification Tag (EXACT format)
   other: {
     "google-site-verification": "_Hx2e-8gnQE--Mzby4hP5qRNCLOpMjeZTIPz74eVzM0",
   },
@@ -21,6 +20,13 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <head>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+        {/* 🔥 Add your AdSense verification script here */}
+        <script
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8506085687379624"
+          crossOrigin="anonymous"
+        ></script>
       </head>
 
       <body className="min-w-0 overflow-x-hidden bg-slate-950 text-white">
