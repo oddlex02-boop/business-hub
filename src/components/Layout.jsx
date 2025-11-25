@@ -32,16 +32,16 @@ export const metadata = {
     'all in one platform'
   ],
 
-  metadataBase: new URL('https://oddlex.in'),
+  metadataBase: new URL('https://business-hub-nine.vercel.app/'),
   alternates: {
-    canonical: 'https://oddlex.in',
+    canonical: 'https://business-hub-nine.vercel.app/',
   },
 
   openGraph: {
     title: 'Oddlex Business Hub – Enterprise-grade tools for freelancers & small businesses',
     description:
       'Use 40+ free tools to manage invoices, payments, clients, analytics, projects and more from one clean dashboard.',
-    url: 'https://oddlex.in',
+    url: 'https://business-hub-nine.vercel.app/',
     siteName: 'Oddlex Business Hub',
     type: 'website',
     images: [
@@ -100,7 +100,7 @@ export default function RootLayout({ children }) {
               applicationCategory: 'BusinessApplication',
               description:
                 'Oddlex Business Hub offers free professional tools for invoices, payment reminders, CRM, analytics, projects and productivity.',
-              url: 'https://oddlex.in',
+              url: 'https://business-hub-nine.vercel.app/',
               offers: {
                 '@type': 'Offer',
                 price: '0',

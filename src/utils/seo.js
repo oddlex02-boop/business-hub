@@ -3,7 +3,7 @@
 // GLOBAL SEO ENGINE FOR ODDLEX BUSINESS HUB
 // =========================================
 
-const BASE_URL = "https://oddlex.in";
+const BASE_URL = "https://business-hub-nine.vercel.app/";
 
 export function generateSEO({
   title = "Oddlex Business Hub – 40+ Free Professional Business Tools",

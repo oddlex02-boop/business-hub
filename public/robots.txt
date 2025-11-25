@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://oddlex.in/sitemap.xml
+Sitemap: https://business-hub-nine.vercel.app//sitemap.xml
